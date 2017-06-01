@@ -1,3 +1,9 @@
+h1 {
+  text-align: center;
+  margin-bottom: 50px;
+  border: 1px solid gray;
+}
+
 #add {
   background-color: skyblue;
   margin-bottom: 5px;
