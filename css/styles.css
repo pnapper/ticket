@@ -1,0 +1,33 @@
+#add {
+  background-color: skyblue;
+  margin-bottom: 5px;
+}
+
+#subtract {
+  background-color: red;
+  margin-bottom: 5px;
+}
+
+#multiply {
+  background-color: teal;
+  margin-bottom: 5px;
+}
+
+#divide {
+  background-color: pink;
+  margin-bottom: 5px;
+}
+
+#outputAdd {
+  margin-bottom: 50px;
+}
+
+#outputSubtract {
+  margin-bottom: 50px;
+}
+#outputMultiply {
+  margin-bottom: 50px;
+}
+#outputDivide {
+  margin-bottom: 50px;
+}
